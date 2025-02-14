@@ -13,7 +13,7 @@ Multi-threaded consumer-producer scheduling system using condition variables in 
 | `pthread_detach`       | Ensures resources are freed after thread completion |
 | `main`                | Manages thread creation every TBD seconds            |
 
----
+
 
 ## **Synchronization Using `pthread`**
 
@@ -26,7 +26,7 @@ Multi-threaded consumer-producer scheduling system using condition variables in 
 | `pthread_cond_wait` | Blocks a thread until a condition is met          |
 | `pthread_cond_signal` | Wakes up a waiting thread                        |
 
----
+
 
 ## **Consumer-Producer Logic Flow**
 
